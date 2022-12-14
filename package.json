@@ -6,7 +6,7 @@
   "license": "MIT",
   "author": "RizkyFadilah",
   "scripts": {
-    "start": "node .",
+    "start": "npm i -g pm2 && pm2 index.js && pm2 save && pm2 logs",
     "format": "prettier --write '**/*.{md,js,json}'"
   },
   "dependencies": {
