@@ -1,0 +1,110 @@
+[
+  {
+    "name": "help",
+    "success": 11,
+    "failed": 5,
+    "lastUpdate": 1670956208154
+  },
+  {
+    "name": "ping",
+    "success": 6,
+    "failed": 0,
+    "lastUpdate": 1670956194297
+  },
+  {
+    "name": "downloaderall",
+    "success": 4,
+    "failed": 0,
+    "lastUpdate": 1670944489844
+  },
+  {
+    "name": "owner",
+    "success": 3,
+    "failed": 0,
+    "lastUpdate": 1670924316191
+  },
+  {
+    "name": "youtube",
+    "success": 3,
+    "failed": 5,
+    "lastUpdate": 1670924161158
+  },
+  {
+    "name": "sticker",
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1670922503355
+  },
+  {
+    "name": "emojimix",
+    "success": 4,
+    "failed": 0,
+    "lastUpdate": 1670924997953
+  },
+  {
+    "name": "dashboard",
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1670925062820
+  },
+  {
+    "name": "upload",
+    "success": 3,
+    "failed": 1,
+    "lastUpdate": 1670931811276
+  },
+  {
+    "name": "meme",
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1670931836204
+  },
+  {
+    "name": "loli",
+    "success": 2,
+    "failed": 0,
+    "lastUpdate": 1670931864195
+  },
+  {
+    "name": "quotesanime",
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1670931916336
+  },
+  {
+    "name": "setlanguage",
+    "success": 2,
+    "failed": 0,
+    "lastUpdate": 1670931961826
+  },
+  {
+    "name": "pinterest",
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1670932000430
+  },
+  {
+    "name": "imgtopdf",
+    "success": 2,
+    "failed": 0,
+    "lastUpdate": 1670932115260
+  },
+  {
+    "name": "getquoted",
+    "success": 3,
+    "failed": 0,
+    "lastUpdate": 1670932097296
+  },
+  {
+    "name": "getchord",
+    "success": 2,
+    "failed": 0,
+    "lastUpdate": 1670932355421
+  },
+  {
+    "name": "scriptbot",
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1670956240270
+  }
+]
