@@ -1,1 +1,5 @@
-[{"id":"60147675746@s.whatsapp.net","balance":715},{"id":"60102810046@s.whatsapp.net","balance":245},{"id":"6282387804410@s.whatsapp.net","balance":46}]
+[
+	{ "id": "60147675746@s.whatsapp.net", "balance": 715 },
+	{ "id": "60102810046@s.whatsapp.net", "balance": 245 },
+	{ "id": "6282387804410@s.whatsapp.net", "balance": 46 }
+]

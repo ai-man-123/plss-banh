@@ -12,7 +12,12 @@ module.exports = {
 				// Gausah di ubah kontol najis modal copas sana sini ubah source cih
 				caption: `Script Bot Is here\ndon't forget fork + star XD`,
 				templateButtons: [
-					{ urlButton: { displayText: "Script Bot", url: "https://github.com/ai-man-123/rzky-multidevice/" } },
+					{
+						urlButton: {
+							displayText: "Script Bot",
+							url: "https://github.com/ai-man-123/rzky-multidevice/",
+						},
+					},
 				],
 			},
 			{ quoted: msg }

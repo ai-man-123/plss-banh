@@ -1,1 +1,37 @@
-{"_sessions":{"BataAZ2z3qhxptUDgt5WOMG+ur3ke1/dEXs9VjA23CF0":{"registrationId":120,"currentRatchet":{"ephemeralKeyPair":{"pubKey":"BYp+QaZn2WdagyervSm3tVnC0sOC7EPJT/BHaiDzIPgE","privKey":"qPh+lSmntkhWDOgUASnxHmFyzZYW5anAzl2V8g4j0Hs="},"lastRemoteEphemeralKey":"BU8qewvIdH51ZhqMIrrCxK8gLHJhj+Yp0/azZZoh6IN2","previousCounter":0,"rootKey":"w2CG3Yu/QAtL/Dz5AuQgX7+EEFIUiWRR9MjZ/PCsGaQ="},"indexInfo":{"baseKey":"BataAZ2z3qhxptUDgt5WOMG+ur3ke1/dEXs9VjA23CF0","baseKeyType":1,"closed":-1,"used":1670922272300,"created":1670922272300,"remoteIdentityKey":"Bf7YL8bmHIh1PN1JRkB7+9OxApIOFicBhEOfU5rhRAk5"},"_chains":{"BYp+QaZn2WdagyervSm3tVnC0sOC7EPJT/BHaiDzIPgE":{"chainKey":{"counter":129,"key":"yn78QIjHcl959IbtloaCVMTavZcFpftIaE6XfKwQ8aw="},"chainType":1,"messageKeys":{}}},"pendingPreKey":{"signedKeyId":1,"baseKey":"BataAZ2z3qhxptUDgt5WOMG+ur3ke1/dEXs9VjA23CF0","preKeyId":16}}},"version":"v1"}
+{
+	"_sessions": {
+		"BataAZ2z3qhxptUDgt5WOMG+ur3ke1/dEXs9VjA23CF0": {
+			"registrationId": 120,
+			"currentRatchet": {
+				"ephemeralKeyPair": {
+					"pubKey": "BYp+QaZn2WdagyervSm3tVnC0sOC7EPJT/BHaiDzIPgE",
+					"privKey": "qPh+lSmntkhWDOgUASnxHmFyzZYW5anAzl2V8g4j0Hs="
+				},
+				"lastRemoteEphemeralKey": "BU8qewvIdH51ZhqMIrrCxK8gLHJhj+Yp0/azZZoh6IN2",
+				"previousCounter": 0,
+				"rootKey": "w2CG3Yu/QAtL/Dz5AuQgX7+EEFIUiWRR9MjZ/PCsGaQ="
+			},
+			"indexInfo": {
+				"baseKey": "BataAZ2z3qhxptUDgt5WOMG+ur3ke1/dEXs9VjA23CF0",
+				"baseKeyType": 1,
+				"closed": -1,
+				"used": 1670922272300,
+				"created": 1670922272300,
+				"remoteIdentityKey": "Bf7YL8bmHIh1PN1JRkB7+9OxApIOFicBhEOfU5rhRAk5"
+			},
+			"_chains": {
+				"BYp+QaZn2WdagyervSm3tVnC0sOC7EPJT/BHaiDzIPgE": {
+					"chainKey": { "counter": 129, "key": "yn78QIjHcl959IbtloaCVMTavZcFpftIaE6XfKwQ8aw=" },
+					"chainType": 1,
+					"messageKeys": {}
+				}
+			},
+			"pendingPreKey": {
+				"signedKeyId": 1,
+				"baseKey": "BataAZ2z3qhxptUDgt5WOMG+ur3ke1/dEXs9VjA23CF0",
+				"preKeyId": 16
+			}
+		}
+	},
+	"version": "v1"
+}
